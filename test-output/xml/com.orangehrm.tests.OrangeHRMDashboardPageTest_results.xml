@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.467">
+    <properties></properties>
+
+
+
+            <testcase
+                name="verifyOrangeHRMDashboardPageURL"
+                time="2.863"
+                classname="com.orangehrm.tests.OrangeHRMDashboardPageTest">
+            </testcase>
+            <testcase
+                name="verifyOrangeHRMDashboardPageTitle"
+                time="0.921"
+                classname="com.orangehrm.tests.OrangeHRMDashboardPageTest">
+            </testcase>
+            <testcase
+                name="verifyOrangeHRMDashboardPageDashboardHeaderText"
+                time="0.417"
+                classname="com.orangehrm.tests.OrangeHRMDashboardPageTest">
+            </testcase>
+            <testcase
+                name="verifyOrangeHRMDashboardPageDashboardIsActiveFromMenu"
+                time="0.266"
+                classname="com.orangehrm.tests.OrangeHRMDashboardPageTest">
+            </testcase>
+</testsuite>

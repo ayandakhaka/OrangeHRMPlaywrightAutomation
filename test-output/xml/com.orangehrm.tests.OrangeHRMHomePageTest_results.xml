@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.053">
+    <properties></properties>
+
+
+
+            <testcase
+                name="verifyOrangeHRMHomePageTitle"
+                time="0.615"
+                classname="com.orangehrm.tests.OrangeHRMHomePageTest">
+            </testcase>
+            <testcase
+                name="verifyOrangeHRMHomePageLogo"
+                time="0.357"
+                classname="com.orangehrm.tests.OrangeHRMHomePageTest">
+            </testcase>
+            <testcase
+                name="verifyOrangeHRMHomePageURL"
+                time="0.014"
+                classname="com.orangehrm.tests.OrangeHRMHomePageTest">
+            </testcase>
+            <testcase
+                name="verifyOrangeHRMHomePageHeaderText"
+                time="0.067"
+                classname="com.orangehrm.tests.OrangeHRMHomePageTest">
+            </testcase>
+</testsuite>

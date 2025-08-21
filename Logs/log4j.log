@@ -1,0 +1,445 @@
+2025-08-21 09:24:03 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 09:24:03 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 09:24:03 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 09:24:03 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 09:24:03 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 09:24:04 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 09:24:04 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 09:24:04 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 09:24:04 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 09:24:04 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 09:24:04 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 09:24:04 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 09:24:04 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 09:24:04 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 09:24:04 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 09:24:04 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 09:24:05 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 09:24:05 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 09:24:05 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 09:24:05 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 09:25:04 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 09:25:04 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 09:25:04 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 09:25:04 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 09:25:04 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 09:25:05 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 09:25:05 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 09:25:05 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 09:25:05 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 09:25:05 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 09:25:05 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 09:25:05 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 09:25:05 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 09:25:05 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 09:25:05 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 09:25:05 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 09:25:05 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 09:25:05 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 09:25:05 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 09:25:05 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 09:26:56 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 09:26:56 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 09:26:56 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 09:26:56 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 09:26:56 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 09:26:57 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 09:26:57 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 09:26:57 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 09:26:57 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 09:26:57 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 09:26:57 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 09:26:57 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 09:26:57 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 09:26:57 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 09:26:57 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 09:26:58 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 09:26:58 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 09:26:58 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 09:26:58 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 09:26:58 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 11:24:45 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 11:24:45 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 11:24:45 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 11:24:45 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 11:24:45 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 11:24:47 DEBUG cache:44 - Couldn't find template in cache for "groups.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 11:24:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en_AU.ftl"): Not found
+2025-08-21 11:24:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en.ftl"): Not found
+2025-08-21 11:24:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups.ftl"): Found
+2025-08-21 11:24:47 DEBUG cache:44 - Loading template for "groups.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/groups.ftl"
+2025-08-21 11:24:47 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 11:24:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 11:24:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 11:24:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 11:24:47 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 11:24:47 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 11:24:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 11:24:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 11:24:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 11:24:47 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 11:24:47 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 11:24:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 11:24:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 11:24:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 11:24:47 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 11:28:00 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 11:28:00 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 11:28:00 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 11:28:00 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 11:28:00 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 11:28:01 DEBUG cache:44 - Couldn't find template in cache for "groups.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 11:28:01 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en_AU.ftl"): Not found
+2025-08-21 11:28:01 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en.ftl"): Not found
+2025-08-21 11:28:01 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups.ftl"): Found
+2025-08-21 11:28:01 DEBUG cache:44 - Loading template for "groups.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/groups.ftl"
+2025-08-21 11:28:01 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 11:28:01 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 11:28:01 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 11:28:01 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 11:28:01 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 11:28:02 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 11:28:02 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 11:28:02 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 11:28:02 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 11:28:02 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 11:28:02 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 11:28:02 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 11:28:02 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 11:28:02 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 11:28:02 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 11:29:58 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 11:29:58 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 11:29:58 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 11:29:58 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 11:29:58 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 11:29:59 DEBUG cache:44 - Couldn't find template in cache for "groups.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 11:29:59 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en_AU.ftl"): Not found
+2025-08-21 11:29:59 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en.ftl"): Not found
+2025-08-21 11:29:59 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups.ftl"): Found
+2025-08-21 11:29:59 DEBUG cache:44 - Loading template for "groups.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/groups.ftl"
+2025-08-21 11:29:59 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 11:29:59 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 11:29:59 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 11:29:59 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 11:29:59 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 11:29:59 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 11:29:59 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 11:29:59 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 11:29:59 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 11:30:00 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 11:30:00 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 11:30:00 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 11:30:00 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 11:30:00 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 11:30:00 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 12:05:47 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:05:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 12:05:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 12:05:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 12:05:47 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 12:05:49 DEBUG cache:44 - Couldn't find template in cache for "groups.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:05:49 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en_AU.ftl"): Not found
+2025-08-21 12:05:49 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en.ftl"): Not found
+2025-08-21 12:05:49 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups.ftl"): Found
+2025-08-21 12:05:49 DEBUG cache:44 - Loading template for "groups.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/groups.ftl"
+2025-08-21 12:05:49 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:05:49 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:05:49 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:05:49 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:05:49 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 12:05:50 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:05:50 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 12:05:50 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 12:05:50 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 12:05:50 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 12:05:50 DEBUG cache:44 - "class-results.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+2025-08-21 12:05:50 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:05:50 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:05:50 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:05:50 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:05:50 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 12:10:00 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:10:07 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 12:10:07 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 12:10:07 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 12:10:07 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 12:10:09 DEBUG cache:44 - Couldn't find template in cache for "groups.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:10:09 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en_AU.ftl"): Not found
+2025-08-21 12:10:09 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en.ftl"): Not found
+2025-08-21 12:10:09 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups.ftl"): Found
+2025-08-21 12:10:09 DEBUG cache:44 - Loading template for "groups.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/groups.ftl"
+2025-08-21 12:10:10 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:10:10 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:10:10 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:10:10 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:10:10 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 12:10:10 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:10:10 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 12:10:10 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 12:10:10 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 12:10:10 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 12:10:11 DEBUG cache:44 - "class-results.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+2025-08-21 12:10:11 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:10:11 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:10:11 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:10:11 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:10:11 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 12:16:07 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:16:07 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 12:16:07 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 12:16:07 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 12:16:07 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 12:16:08 DEBUG cache:44 - Couldn't find template in cache for "groups.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:16:08 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en_AU.ftl"): Not found
+2025-08-21 12:16:08 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en.ftl"): Not found
+2025-08-21 12:16:08 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups.ftl"): Found
+2025-08-21 12:16:08 DEBUG cache:44 - Loading template for "groups.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/groups.ftl"
+2025-08-21 12:16:08 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:16:08 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:16:08 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:16:08 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:16:08 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 12:16:09 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:16:09 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 12:16:09 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 12:16:09 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 12:16:09 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 12:16:09 DEBUG cache:44 - "class-results.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+2025-08-21 12:16:10 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:16:10 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:16:10 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:16:10 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:16:10 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 12:21:04 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:21:04 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 12:21:04 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 12:21:04 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 12:21:04 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 12:21:07 DEBUG cache:44 - Couldn't find template in cache for "groups.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:21:07 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en_AU.ftl"): Not found
+2025-08-21 12:21:07 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en.ftl"): Not found
+2025-08-21 12:21:07 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups.ftl"): Found
+2025-08-21 12:21:07 DEBUG cache:44 - Loading template for "groups.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/groups.ftl"
+2025-08-21 12:21:08 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:21:08 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:21:08 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:21:08 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:21:08 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 12:21:08 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:21:08 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 12:21:08 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 12:21:08 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 12:21:08 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 12:21:09 DEBUG cache:44 - "class-results.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+2025-08-21 12:21:09 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:21:09 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:21:09 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:21:09 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:21:09 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 12:27:28 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:27:28 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 12:27:28 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 12:27:28 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 12:27:28 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 12:27:30 DEBUG cache:44 - Couldn't find template in cache for "groups.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:27:30 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en_AU.ftl"): Not found
+2025-08-21 12:27:30 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en.ftl"): Not found
+2025-08-21 12:27:30 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups.ftl"): Found
+2025-08-21 12:27:30 DEBUG cache:44 - Loading template for "groups.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/groups.ftl"
+2025-08-21 12:27:31 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:27:31 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:27:31 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:27:31 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:27:31 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 12:27:32 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:27:32 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 12:27:32 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 12:27:32 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 12:27:32 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 12:27:32 DEBUG cache:44 - "class-results.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+2025-08-21 12:27:32 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:27:32 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:27:32 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:27:32 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:27:32 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 12:31:58 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:31:58 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 12:31:58 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 12:31:58 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 12:31:58 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 12:32:00 DEBUG cache:44 - Couldn't find template in cache for "groups.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:32:00 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en_AU.ftl"): Not found
+2025-08-21 12:32:00 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en.ftl"): Not found
+2025-08-21 12:32:00 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups.ftl"): Found
+2025-08-21 12:32:00 DEBUG cache:44 - Loading template for "groups.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/groups.ftl"
+2025-08-21 12:32:01 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:32:01 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:32:01 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:32:01 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:32:01 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 12:32:01 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:32:01 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 12:32:01 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 12:32:01 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 12:32:01 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 12:32:02 DEBUG cache:44 - "class-results.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+2025-08-21 12:32:02 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:32:02 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:32:02 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:32:02 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:32:02 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 12:34:37 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:34:37 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 12:34:37 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 12:34:37 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 12:34:37 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 12:34:40 DEBUG cache:44 - Couldn't find template in cache for "groups.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:34:41 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en_AU.ftl"): Not found
+2025-08-21 12:34:41 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en.ftl"): Not found
+2025-08-21 12:34:41 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups.ftl"): Found
+2025-08-21 12:34:41 DEBUG cache:44 - Loading template for "groups.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/groups.ftl"
+2025-08-21 12:34:41 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:34:41 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:34:41 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:34:41 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:34:41 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 12:34:42 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:34:42 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 12:34:42 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 12:34:42 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 12:34:42 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 12:34:42 DEBUG cache:44 - "class-results.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+2025-08-21 12:34:42 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:34:42 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:34:42 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:34:42 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:34:42 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 12:37:18 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:37:18 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 12:37:18 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 12:37:18 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 12:37:18 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 12:37:20 DEBUG cache:44 - Couldn't find template in cache for "groups.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:37:20 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en_AU.ftl"): Not found
+2025-08-21 12:37:20 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en.ftl"): Not found
+2025-08-21 12:37:20 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups.ftl"): Found
+2025-08-21 12:37:20 DEBUG cache:44 - Loading template for "groups.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/groups.ftl"
+2025-08-21 12:37:22 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:37:22 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:37:22 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:37:22 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:37:22 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 12:37:22 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:37:22 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 12:37:22 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 12:37:22 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 12:37:22 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 12:37:23 DEBUG cache:44 - "class-results.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+2025-08-21 12:37:23 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:37:23 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:37:23 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:37:23 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:37:23 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 12:43:14 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:43:14 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 12:43:14 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 12:43:14 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 12:43:14 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 12:43:16 DEBUG cache:44 - Couldn't find template in cache for "groups.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:43:16 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en_AU.ftl"): Not found
+2025-08-21 12:43:16 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en.ftl"): Not found
+2025-08-21 12:43:16 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups.ftl"): Found
+2025-08-21 12:43:16 DEBUG cache:44 - Loading template for "groups.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/groups.ftl"
+2025-08-21 12:43:17 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:43:17 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:43:17 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:43:17 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:43:17 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 12:43:17 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:43:17 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 12:43:17 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 12:43:17 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 12:43:17 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 12:43:18 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:43:18 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:43:18 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:43:18 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:43:18 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 12:56:42 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:56:42 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 12:56:42 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 12:56:42 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 12:56:42 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 12:56:44 DEBUG cache:44 - Couldn't find template in cache for "groups.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:56:44 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en_AU.ftl"): Not found
+2025-08-21 12:56:44 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en.ftl"): Not found
+2025-08-21 12:56:44 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups.ftl"): Found
+2025-08-21 12:56:44 DEBUG cache:44 - Loading template for "groups.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/groups.ftl"
+2025-08-21 12:56:44 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:56:44 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:56:44 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:56:44 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:56:44 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 12:56:44 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:56:44 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 12:56:44 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 12:56:44 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 12:56:44 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 12:56:44 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 12:56:44 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 12:56:44 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 12:56:44 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 12:56:44 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 17:48:12 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 17:48:12 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 17:48:12 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 17:48:12 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 17:48:12 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 17:48:16 DEBUG cache:44 - Couldn't find template in cache for "groups.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 17:48:16 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en_AU.ftl"): Not found
+2025-08-21 17:48:16 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en.ftl"): Not found
+2025-08-21 17:48:16 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups.ftl"): Found
+2025-08-21 17:48:16 DEBUG cache:44 - Loading template for "groups.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/groups.ftl"
+2025-08-21 17:48:16 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 17:48:16 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 17:48:16 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 17:48:16 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 17:48:16 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 17:48:17 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 17:48:17 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 17:48:17 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 17:48:17 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 17:48:17 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 17:48:18 DEBUG cache:44 - "class-results.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+2025-08-21 17:48:19 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 17:48:19 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 17:48:19 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 17:48:19 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 17:48:19 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+2025-08-21 17:52:47 DEBUG cache:44 - Couldn't find template in cache for "index.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 17:52:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en_AU.ftl"): Not found
+2025-08-21 17:52:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2025-08-21 17:52:47 DEBUG cache:44 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2025-08-21 17:52:47 DEBUG cache:44 - Loading template for "index.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+2025-08-21 17:52:50 DEBUG cache:44 - Couldn't find template in cache for "groups.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 17:52:50 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en_AU.ftl"): Not found
+2025-08-21 17:52:50 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups_en.ftl"): Not found
+2025-08-21 17:52:50 DEBUG cache:44 - TemplateLoader.findTemplateSource("groups.ftl"): Found
+2025-08-21 17:52:50 DEBUG cache:44 - Loading template for "groups.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/groups.ftl"
+2025-08-21 17:52:50 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 17:52:50 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 17:52:50 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 17:52:50 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 17:52:50 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+2025-08-21 17:52:50 DEBUG cache:44 - Couldn't find template in cache for "class-results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 17:52:51 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en_AU.ftl"): Not found
+2025-08-21 17:52:51 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+2025-08-21 17:52:51 DEBUG cache:44 - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+2025-08-21 17:52:51 DEBUG cache:44 - Loading template for "class-results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+2025-08-21 17:52:51 DEBUG cache:44 - "class-results.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+2025-08-21 17:52:51 DEBUG cache:44 - Couldn't find template in cache for "results.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2025-08-21 17:52:51 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en_AU.ftl"): Not found
+2025-08-21 17:52:51 DEBUG cache:44 - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+2025-08-21 17:52:51 DEBUG cache:44 - TemplateLoader.findTemplateSource("results.ftl"): Found
+2025-08-21 17:52:51 DEBUG cache:44 - Loading template for "results.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/org/testng/reportng/1.2.2/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
