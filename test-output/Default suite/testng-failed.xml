@@ -9,8 +9,8 @@
           <include name="verifyViewEmployeePageHeaderText"/>
           <include name="verifyAddEmployeeHeaderText"/>
           <include name="setup"/>
-          <include name="verifyAddedEmployeeHeaderText"/>
           <include name="verifyAddEmployeePageURL"/>
+          <include name="verifyAddedEmployeeHeaderText"/>
         </methods>
       </class> <!-- com.orangehrm.tests.PIMAddEmployeeTest -->
     </classes>

@@ -9,39 +9,36 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="8">Default suite</th></tr>
-<tr><td><a href="#t0">Default test</a></td><td class="num">0</td><td class="num attn">5</td><td class="num">0</td><td class="num">0</td><td class="num">59,705</td><td></td><td></td></tr>
+<tr><td><a href="#t0">Default test</a></td><td class="num">0</td><td class="num attn">5</td><td class="num">0</td><td class="num">0</td><td class="num">50,573</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; failed (configuration methods)</th></tr><tr class="failedeven"><td rowspan="1">com.orangehrm.tests.PIMAddEmployeeTest</td><td><a href="#m0">setup</a></td><td rowspan="1">1755791506604</td><td rowspan="1">59067</td></tr><tr><th colspan="4">Default test &#8212; skipped</th></tr><tr class="skippedeven"><td rowspan="5">com.orangehrm.tests.PIMAddEmployeeTest</td><td><a href="#m1">verifyAddEmployeeHeaderText</a></td><td rowspan="1">1755791566169</td><td rowspan="1">0</td></tr><tr class="skippedeven"><td><a href="#m2">verifyAddEmployeePageURL</a></td><td rowspan="1">1755791566141</td><td rowspan="1">0</td></tr><tr class="skippedeven"><td><a href="#m3">verifyAddedEmployeeHeaderText</a></td><td rowspan="1">1755791566217</td><td rowspan="1">0</td></tr><tr class="skippedeven"><td><a href="#m4">verifyViewEmployeePageHeaderText</a></td><td rowspan="1">1755791565955</td><td rowspan="1">0</td></tr><tr class="skippedeven"><td><a href="#m5">verifyViewEmployeePageURL</a></td><td rowspan="1">1755791565918</td><td rowspan="1">0</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; failed (configuration methods)</th></tr><tr class="failedeven"><td rowspan="1">com.orangehrm.tests.PIMAddEmployeeTest</td><td><a href="#m0">setup</a></td><td rowspan="1">1755888825290</td><td rowspan="1">50043</td></tr><tr><th colspan="4">Default test &#8212; skipped</th></tr><tr class="skippedeven"><td rowspan="5">com.orangehrm.tests.PIMAddEmployeeTest</td><td><a href="#m1">verifyAddEmployeeHeaderText</a></td><td rowspan="1">1755888875695</td><td rowspan="1">5</td></tr><tr class="skippedeven"><td><a href="#m2">verifyAddEmployeePageURL</a></td><td rowspan="1">1755888875668</td><td rowspan="1">1</td></tr><tr class="skippedeven"><td><a href="#m3">verifyAddedEmployeeHeaderText</a></td><td rowspan="1">1755888875759</td><td rowspan="1">0</td></tr><tr class="skippedeven"><td><a href="#m4">verifyViewEmployeePageHeaderText</a></td><td rowspan="1">1755888875635</td><td rowspan="1">0</td></tr><tr class="skippedeven"><td><a href="#m5">verifyViewEmployeePageURL</a></td><td rowspan="1">1755888875477</td><td rowspan="1">0</td></tr></tbody>
 </table>
 <h2>Default test</h2><h3 id="m0">com.orangehrm.tests.PIMAddEmployeeTest#setup</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">com.microsoft.playwright.TimeoutError: Error {
   message=&apos;Timeout 30000ms exceeded.
 =========================== logs ===========================
-waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&quot;
+navigating to &quot;https://opensource-demo.orangehrmlive.com/web/index.php/auth/login&quot;, waiting until &quot;networkidle&quot;
 ============================================================
   name=&apos;TimeoutError
   stack=&apos;TimeoutError: Timeout 30000ms exceeded.
 =========================== logs ===========================
-waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&quot;
+navigating to &quot;https://opensource-demo.orangehrmlive.com/web/index.php/auth/login&quot;, waiting until &quot;networkidle&quot;
 ============================================================
-    at ProgressController.run (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\server\progress.js:96:26)
-    at Frame.click (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\server\frames.js:1078:23)
-    at FrameDispatcher.click (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\dispatchers\frameDispatcher.js:159:30)
-    at DispatcherConnection.dispatch (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\dispatchers\dispatcher.js:352:46)
+    at ProgressController.run (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\server\progress.js:96:26)
+    at Frame.goto (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\server\frames.js:628:23)
+    at FrameDispatcher.goto (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\dispatchers\frameDispatcher.js:79:77)
+    at DispatcherConnection.dispatch (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\dispatchers\dispatcher.js:352:46)
 }
 	at com.microsoft.playwright.impl.WaitableResult.get(WaitableResult.java:52)
 	at com.microsoft.playwright.impl.ChannelOwner.runUntil(ChannelOwner.java:103)
 	at com.microsoft.playwright.impl.Connection.sendMessage(Connection.java:115)
 	at com.microsoft.playwright.impl.ChannelOwner.sendMessage(ChannelOwner.java:94)
-	at com.microsoft.playwright.impl.FrameImpl.clickImpl(FrameImpl.java:255)
-	at com.microsoft.playwright.impl.FrameImpl.lambda$click$9(FrameImpl.java:246)
-	at com.microsoft.playwright.impl.LoggingSupport.lambda$withLogging$0(LoggingSupport.java:36)
+	at com.microsoft.playwright.impl.FrameImpl.navigateImpl(FrameImpl.java:401)
+	at com.microsoft.playwright.impl.PageImpl.lambda$navigate$32(PageImpl.java:802)
 	at com.microsoft.playwright.impl.LoggingSupport.withLogging(LoggingSupport.java:47)
 	at com.microsoft.playwright.impl.ChannelOwner.withLogging(ChannelOwner.java:79)
-	at com.microsoft.playwright.impl.LoggingSupport.withLogging(LoggingSupport.java:35)
-	at com.microsoft.playwright.impl.FrameImpl.click(FrameImpl.java:246)
-	at com.microsoft.playwright.impl.LocatorImpl.click(LocatorImpl.java:75)
-	at com.microsoft.playwright.Locator.click(Locator.java:1507)
-	at com.orangehrm.pages.dashboard.OrangeHRMDashBoardPage.clickPIMLink(OrangeHRMDashBoardPage.java:50)
+	at com.microsoft.playwright.impl.PageImpl.navigate(PageImpl.java:801)
+	at com.microsoft.playwright.impl.PageImpl.navigate(PageImpl.java:41)
+	at com.orangehrm.base.BaseTest.launchApplication(BaseTest.java:83)
 	at com.orangehrm.tests.PIMAddEmployeeTest.setup(PIMAddEmployeeTest.java:37)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
@@ -70,24 +67,24 @@ waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&
 Caused by: com.microsoft.playwright.TimeoutError: Error {
   message=&apos;Timeout 30000ms exceeded.
 =========================== logs ===========================
-waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&quot;
+navigating to &quot;https://opensource-demo.orangehrmlive.com/web/index.php/auth/login&quot;, waiting until &quot;networkidle&quot;
 ============================================================
   name=&apos;TimeoutError
   stack=&apos;TimeoutError: Timeout 30000ms exceeded.
 =========================== logs ===========================
-waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&quot;
+navigating to &quot;https://opensource-demo.orangehrmlive.com/web/index.php/auth/login&quot;, waiting until &quot;networkidle&quot;
 ============================================================
-    at ProgressController.run (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\server\progress.js:96:26)
-    at Frame.click (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\server\frames.js:1078:23)
-    at FrameDispatcher.click (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\dispatchers\frameDispatcher.js:159:30)
-    at DispatcherConnection.dispatch (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\dispatchers\dispatcher.js:352:46)
+    at ProgressController.run (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\server\progress.js:96:26)
+    at Frame.goto (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\server\frames.js:628:23)
+    at FrameDispatcher.goto (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\dispatchers\frameDispatcher.js:79:77)
+    at DispatcherConnection.dispatch (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\dispatchers\dispatcher.js:352:46)
 }
 	at com.microsoft.playwright.impl.Connection.dispatch(Connection.java:226)
 	at com.microsoft.playwright.impl.Connection.processOneMessage(Connection.java:208)
 	at com.microsoft.playwright.impl.ChannelOwner.runUntil(ChannelOwner.java:101)
-	... 37 more
+	... 34 more
 </div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">com.orangehrm.tests.PIMAddEmployeeTest#verifyAddEmployeeHeaderText</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.Throwable: Method PIMAddEmployeeTest.verifyAddEmployeeHeaderText()[pri:4, instance:com.orangehrm.tests.PIMAddEmployeeTest@186f8716] depends on not successfully finished methods in group &quot;Before Add PIM Employee&quot;
+<h3 id="m1">com.orangehrm.tests.PIMAddEmployeeTest#verifyAddEmployeeHeaderText</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.Throwable: Method PIMAddEmployeeTest.verifyAddEmployeeHeaderText()[pri:4, instance:com.orangehrm.tests.PIMAddEmployeeTest@1d8bd0de] depends on not successfully finished methods in group &quot;Before Add PIM Employee&quot;
 	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:149)
 	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
 	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
@@ -108,7 +105,7 @@ waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
 </div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">com.orangehrm.tests.PIMAddEmployeeTest#verifyAddEmployeePageURL</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.Throwable: Method PIMAddEmployeeTest.verifyAddEmployeePageURL()[pri:3, instance:com.orangehrm.tests.PIMAddEmployeeTest@186f8716] depends on not successfully finished methods in group &quot;Before Add PIM Employee&quot;
+<h3 id="m2">com.orangehrm.tests.PIMAddEmployeeTest#verifyAddEmployeePageURL</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.Throwable: Method PIMAddEmployeeTest.verifyAddEmployeePageURL()[pri:3, instance:com.orangehrm.tests.PIMAddEmployeeTest@1d8bd0de] depends on not successfully finished methods in group &quot;Before Add PIM Employee&quot;
 	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:149)
 	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
 	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
@@ -129,7 +126,7 @@ waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
 </div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">com.orangehrm.tests.PIMAddEmployeeTest#verifyAddedEmployeeHeaderText</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.Throwable: Method PIMAddEmployeeTest.verifyAddedEmployeeHeaderText()[pri:5, instance:com.orangehrm.tests.PIMAddEmployeeTest@186f8716] depends on not successfully finished methods in group &quot;Click Add Button&quot;
+<h3 id="m3">com.orangehrm.tests.PIMAddEmployeeTest#verifyAddedEmployeeHeaderText</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.Throwable: Method PIMAddEmployeeTest.verifyAddedEmployeeHeaderText()[pri:5, instance:com.orangehrm.tests.PIMAddEmployeeTest@1d8bd0de] depends on not successfully finished methods in group &quot;Click Add Button&quot;
 	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:149)
 	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
 	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
@@ -153,32 +150,29 @@ waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&
 <h3 id="m4">com.orangehrm.tests.PIMAddEmployeeTest#verifyViewEmployeePageHeaderText</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">com.microsoft.playwright.TimeoutError: Error {
   message=&apos;Timeout 30000ms exceeded.
 =========================== logs ===========================
-waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&quot;
+navigating to &quot;https://opensource-demo.orangehrmlive.com/web/index.php/auth/login&quot;, waiting until &quot;networkidle&quot;
 ============================================================
   name=&apos;TimeoutError
   stack=&apos;TimeoutError: Timeout 30000ms exceeded.
 =========================== logs ===========================
-waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&quot;
+navigating to &quot;https://opensource-demo.orangehrmlive.com/web/index.php/auth/login&quot;, waiting until &quot;networkidle&quot;
 ============================================================
-    at ProgressController.run (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\server\progress.js:96:26)
-    at Frame.click (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\server\frames.js:1078:23)
-    at FrameDispatcher.click (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\dispatchers\frameDispatcher.js:159:30)
-    at DispatcherConnection.dispatch (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\dispatchers\dispatcher.js:352:46)
+    at ProgressController.run (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\server\progress.js:96:26)
+    at Frame.goto (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\server\frames.js:628:23)
+    at FrameDispatcher.goto (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\dispatchers\frameDispatcher.js:79:77)
+    at DispatcherConnection.dispatch (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\dispatchers\dispatcher.js:352:46)
 }
 	at com.microsoft.playwright.impl.WaitableResult.get(WaitableResult.java:52)
 	at com.microsoft.playwright.impl.ChannelOwner.runUntil(ChannelOwner.java:103)
 	at com.microsoft.playwright.impl.Connection.sendMessage(Connection.java:115)
 	at com.microsoft.playwright.impl.ChannelOwner.sendMessage(ChannelOwner.java:94)
-	at com.microsoft.playwright.impl.FrameImpl.clickImpl(FrameImpl.java:255)
-	at com.microsoft.playwright.impl.FrameImpl.lambda$click$9(FrameImpl.java:246)
-	at com.microsoft.playwright.impl.LoggingSupport.lambda$withLogging$0(LoggingSupport.java:36)
+	at com.microsoft.playwright.impl.FrameImpl.navigateImpl(FrameImpl.java:401)
+	at com.microsoft.playwright.impl.PageImpl.lambda$navigate$32(PageImpl.java:802)
 	at com.microsoft.playwright.impl.LoggingSupport.withLogging(LoggingSupport.java:47)
 	at com.microsoft.playwright.impl.ChannelOwner.withLogging(ChannelOwner.java:79)
-	at com.microsoft.playwright.impl.LoggingSupport.withLogging(LoggingSupport.java:35)
-	at com.microsoft.playwright.impl.FrameImpl.click(FrameImpl.java:246)
-	at com.microsoft.playwright.impl.LocatorImpl.click(LocatorImpl.java:75)
-	at com.microsoft.playwright.Locator.click(Locator.java:1507)
-	at com.orangehrm.pages.dashboard.OrangeHRMDashBoardPage.clickPIMLink(OrangeHRMDashBoardPage.java:50)
+	at com.microsoft.playwright.impl.PageImpl.navigate(PageImpl.java:801)
+	at com.microsoft.playwright.impl.PageImpl.navigate(PageImpl.java:41)
+	at com.orangehrm.base.BaseTest.launchApplication(BaseTest.java:83)
 	at com.orangehrm.tests.PIMAddEmployeeTest.setup(PIMAddEmployeeTest.java:37)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
@@ -207,52 +201,49 @@ waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&
 Caused by: com.microsoft.playwright.TimeoutError: Error {
   message=&apos;Timeout 30000ms exceeded.
 =========================== logs ===========================
-waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&quot;
+navigating to &quot;https://opensource-demo.orangehrmlive.com/web/index.php/auth/login&quot;, waiting until &quot;networkidle&quot;
 ============================================================
   name=&apos;TimeoutError
   stack=&apos;TimeoutError: Timeout 30000ms exceeded.
 =========================== logs ===========================
-waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&quot;
+navigating to &quot;https://opensource-demo.orangehrmlive.com/web/index.php/auth/login&quot;, waiting until &quot;networkidle&quot;
 ============================================================
-    at ProgressController.run (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\server\progress.js:96:26)
-    at Frame.click (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\server\frames.js:1078:23)
-    at FrameDispatcher.click (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\dispatchers\frameDispatcher.js:159:30)
-    at DispatcherConnection.dispatch (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\dispatchers\dispatcher.js:352:46)
+    at ProgressController.run (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\server\progress.js:96:26)
+    at Frame.goto (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\server\frames.js:628:23)
+    at FrameDispatcher.goto (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\dispatchers\frameDispatcher.js:79:77)
+    at DispatcherConnection.dispatch (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\dispatchers\dispatcher.js:352:46)
 }
 	at com.microsoft.playwright.impl.Connection.dispatch(Connection.java:226)
 	at com.microsoft.playwright.impl.Connection.processOneMessage(Connection.java:208)
 	at com.microsoft.playwright.impl.ChannelOwner.runUntil(ChannelOwner.java:101)
-	... 37 more
+	... 34 more
 </div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 <h3 id="m5">com.orangehrm.tests.PIMAddEmployeeTest#verifyViewEmployeePageURL</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">com.microsoft.playwright.TimeoutError: Error {
   message=&apos;Timeout 30000ms exceeded.
 =========================== logs ===========================
-waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&quot;
+navigating to &quot;https://opensource-demo.orangehrmlive.com/web/index.php/auth/login&quot;, waiting until &quot;networkidle&quot;
 ============================================================
   name=&apos;TimeoutError
   stack=&apos;TimeoutError: Timeout 30000ms exceeded.
 =========================== logs ===========================
-waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&quot;
+navigating to &quot;https://opensource-demo.orangehrmlive.com/web/index.php/auth/login&quot;, waiting until &quot;networkidle&quot;
 ============================================================
-    at ProgressController.run (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\server\progress.js:96:26)
-    at Frame.click (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\server\frames.js:1078:23)
-    at FrameDispatcher.click (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\dispatchers\frameDispatcher.js:159:30)
-    at DispatcherConnection.dispatch (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\dispatchers\dispatcher.js:352:46)
+    at ProgressController.run (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\server\progress.js:96:26)
+    at Frame.goto (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\server\frames.js:628:23)
+    at FrameDispatcher.goto (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\dispatchers\frameDispatcher.js:79:77)
+    at DispatcherConnection.dispatch (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\dispatchers\dispatcher.js:352:46)
 }
 	at com.microsoft.playwright.impl.WaitableResult.get(WaitableResult.java:52)
 	at com.microsoft.playwright.impl.ChannelOwner.runUntil(ChannelOwner.java:103)
 	at com.microsoft.playwright.impl.Connection.sendMessage(Connection.java:115)
 	at com.microsoft.playwright.impl.ChannelOwner.sendMessage(ChannelOwner.java:94)
-	at com.microsoft.playwright.impl.FrameImpl.clickImpl(FrameImpl.java:255)
-	at com.microsoft.playwright.impl.FrameImpl.lambda$click$9(FrameImpl.java:246)
-	at com.microsoft.playwright.impl.LoggingSupport.lambda$withLogging$0(LoggingSupport.java:36)
+	at com.microsoft.playwright.impl.FrameImpl.navigateImpl(FrameImpl.java:401)
+	at com.microsoft.playwright.impl.PageImpl.lambda$navigate$32(PageImpl.java:802)
 	at com.microsoft.playwright.impl.LoggingSupport.withLogging(LoggingSupport.java:47)
 	at com.microsoft.playwright.impl.ChannelOwner.withLogging(ChannelOwner.java:79)
-	at com.microsoft.playwright.impl.LoggingSupport.withLogging(LoggingSupport.java:35)
-	at com.microsoft.playwright.impl.FrameImpl.click(FrameImpl.java:246)
-	at com.microsoft.playwright.impl.LocatorImpl.click(LocatorImpl.java:75)
-	at com.microsoft.playwright.Locator.click(Locator.java:1507)
-	at com.orangehrm.pages.dashboard.OrangeHRMDashBoardPage.clickPIMLink(OrangeHRMDashBoardPage.java:50)
+	at com.microsoft.playwright.impl.PageImpl.navigate(PageImpl.java:801)
+	at com.microsoft.playwright.impl.PageImpl.navigate(PageImpl.java:41)
+	at com.orangehrm.base.BaseTest.launchApplication(BaseTest.java:83)
 	at com.orangehrm.tests.PIMAddEmployeeTest.setup(PIMAddEmployeeTest.java:37)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
@@ -281,22 +272,22 @@ waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&
 Caused by: com.microsoft.playwright.TimeoutError: Error {
   message=&apos;Timeout 30000ms exceeded.
 =========================== logs ===========================
-waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&quot;
+navigating to &quot;https://opensource-demo.orangehrmlive.com/web/index.php/auth/login&quot;, waiting until &quot;networkidle&quot;
 ============================================================
   name=&apos;TimeoutError
   stack=&apos;TimeoutError: Timeout 30000ms exceeded.
 =========================== logs ===========================
-waiting for selector &quot;a[href=&apos;/web/index.php/pim/viewPimModule&apos;]&quot;
+navigating to &quot;https://opensource-demo.orangehrmlive.com/web/index.php/auth/login&quot;, waiting until &quot;networkidle&quot;
 ============================================================
-    at ProgressController.run (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\server\progress.js:96:26)
-    at Frame.click (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\server\frames.js:1078:23)
-    at FrameDispatcher.click (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\dispatchers\frameDispatcher.js:159:30)
-    at DispatcherConnection.dispatch (C:\Users\USER\AppData\Local\Temp\playwright-java-8176286395018285041\package\lib\dispatchers\dispatcher.js:352:46)
+    at ProgressController.run (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\server\progress.js:96:26)
+    at Frame.goto (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\server\frames.js:628:23)
+    at FrameDispatcher.goto (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\dispatchers\frameDispatcher.js:79:77)
+    at DispatcherConnection.dispatch (C:\Users\USER\AppData\Local\Temp\playwright-java-15041017842603725125\package\lib\dispatchers\dispatcher.js:352:46)
 }
 	at com.microsoft.playwright.impl.Connection.dispatch(Connection.java:226)
 	at com.microsoft.playwright.impl.Connection.processOneMessage(Connection.java:208)
 	at com.microsoft.playwright.impl.ChannelOwner.runUntil(ChannelOwner.java:101)
-	... 37 more
+	... 34 more
 </div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>
