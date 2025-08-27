@@ -24,29 +24,30 @@ public class OrangeHRMDataStore {
                 stmt.execute("CREATE TABLE credentials (username VARCHAR(50), password VARCHAR(50))");
                 //Insert into credentials table
                 stmt.execute("INSERT INTO credentials VALUES('Admin', 'admin123')");
-                stmt.execute("CREATE TABLE IF NOT EXISTS employees (employee_id INT AUTO_INCREMENT PRIMARY KEY, first_name VARCHAR(50), middle_name VARCHAR(50), last_name VARCHAR(50))");
+                stmt.execute("CREATE TABLE IF NOT EXISTS employees (employee_id INT PRIMARY KEY, first_name VARCHAR(50), middle_name VARCHAR(50), last_name VARCHAR(50))");
             }
         }
     }
     
     public static Employee insertEmployee() throws SQLException {
         Employee emp = new Employee();
-        //emp.setEmployeeId(getEmployeeId());
+        emp.setEmployeeId(getEmployeeId());
         emp.setFirstName(getRandomStringLetters());
         emp.setMiddleName("Alwane");
         emp.setLastName("Khaka");
 
         try (PreparedStatement stmt = connection.prepareStatement(
-                "INSERT INTO employees (first_name, middle_name, last_name) VALUES (?,?,?)",
-                Statement.RETURN_GENERATED_KEYS)) {
+                "INSERT INTO employees (employee_id,first_name, middle_name, last_name) VALUES (?,?,?,?)")) {
 
-            stmt.setString(1, emp.getFirstName());
-            stmt.setString(2, emp.getMiddleName());
-            stmt.setString(3, emp.getLastName());
+        	stmt.setInt(1, emp.getEmployeeId());
+            stmt.setString(2, emp.getFirstName());
+            stmt.setString(3, emp.getMiddleName());
+            stmt.setString(4, emp.getLastName());
             stmt.executeUpdate();
 
             try (ResultSet generatedKeys = stmt.getGeneratedKeys()) {
                 if (generatedKeys.next()) {
+                	
                     emp.setEmployeeId(generatedKeys.getInt(1));
                 }
             }
@@ -54,35 +55,20 @@ public class OrangeHRMDataStore {
         return emp;
     }
     
-//    public Employee getEmployeeFromDB() throws SQLException {
-//    	
-//    	employee = new Employee();
-//    	Statement statement = connection.createStatement();
-//    	ResultSet rs = statement.executeQuery("SELECT * FROM employees LIMIT 1");
-//    	if(rs.next()) {
-//    	    employee.setFirstName(rs.getString("first_name") != null ? rs.getString("first_name") : "");
-//    	    employee.setMiddleName(rs.getString("middle_name") != null ? rs.getString("middle_name") : "");
-//    	    employee.setLastName(rs.getString("last_name") != null ? rs.getString("last_name") : "");
-//    	    employee.setEmployeeId(rs.getInt("employee_id"));
-//    	}
-//    	connection.close();
-//    	return employee;
-//    }
+    public int getGeneratedEmployeeId() throws SQLException {
+    	
+    	ResultSet generatedKeys = statement.getGeneratedKeys();
+    	int newEmployeeId = 0;
+    	if(generatedKeys.next()) {
+    		newEmployeeId = generatedKeys.getInt(1);
+    	}
+    	return newEmployeeId;
+    }
     
-//    public int getGeneratedEmployeeId() throws SQLException {
-//    	
-//    	ResultSet generatedKeys = statement.getGeneratedKeys();
-//    	int newEmployeeId = 0;
-//    	if(generatedKeys.next()) {
-//    		newEmployeeId = generatedKeys.getInt(1);
-//    	}
-//    	return newEmployeeId;
-//    }
-    
-//    public static int getEmployeeId() {
-//		Random rand = new Random();
-//		return rand.nextInt(300); 
-//	}
+    public static int getEmployeeId() {
+		Random rand = new Random();
+		return rand.nextInt(300); 
+	}
     
     public static String getRandomStringLetters() {
 		String characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";

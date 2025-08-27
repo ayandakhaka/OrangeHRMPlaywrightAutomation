@@ -6,6 +6,7 @@ import java.sql.SQLException;
 import java.util.UUID;
 
 import org.testng.Assert;
+import org.testng.annotations.AfterGroups;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeGroups;
 import org.testng.annotations.BeforeTest;
@@ -18,6 +19,7 @@ import com.orangehrm.pages.dashboard.OrangeHRMDashBoardPage;
 import com.orangehrm.pages.dashboard.pim.ViewEmployeeListPage;
 import com.orangehrm.pages.homepage.OrangeHRMHomePage;
 import com.orangehrm.pim.addemployee.PIMAddEmployeePage;
+import com.orangehrm.pim.employeelist.EmployeeListPage;
 
 public class PIMAddEmployeeTest extends BaseTest {
 
@@ -26,7 +28,7 @@ public class PIMAddEmployeeTest extends BaseTest {
 	private ViewEmployeeListPage viewEmployeeListPage;
 	private PIMAddEmployeePage pimAddEmployeePage;
 	private String employeeName;
-	private OrangeHRMDataStore orangehrmDataStore;
+	private EmployeeListPage employeeListPage;
 	Employee emp;
 
 	@BeforeClass(groups = "Before Add PIM Employee")
@@ -47,6 +49,7 @@ public class PIMAddEmployeeTest extends BaseTest {
 		viewEmployeeListPage = new ViewEmployeeListPage(page);
 		pimAddEmployeePage = new PIMAddEmployeePage(page);
 		emp = OrangeHRMDataStore.insertEmployee();
+		employeeListPage = new EmployeeListPage(page);
 
 	}
 
@@ -84,7 +87,8 @@ public class PIMAddEmployeeTest extends BaseTest {
 		pimAddEmployeePage.addEmployeeWithoutCreateLoginDetails(
 				emp.getFirstName(),
 				emp.getMiddleName(),
-				emp.getLastName());
+				emp.getLastName(),
+				emp.getEmployeeId());
 		//pimAddEmployeePage.clickSaveOnAddEmployee();
 		String currentURL = page.url();
 		System.out.println("currentURL = " + currentURL);
@@ -98,5 +102,11 @@ public class PIMAddEmployeeTest extends BaseTest {
 	public void verifyAddedEmployeeHeaderText() throws URISyntaxException {
 		String actualResults = employeeName + " " + emp.getLastName();
 		Assert.assertEquals(pimAddEmployeePage.getAddedEmployeeText(), actualResults);
+	}
+	
+	@AfterGroups(groups = "Add Employee Details")
+	public void AddEmployeeContactDetails() {
+		//employeeListPage.clickContactDetailsLinkText();
+		employeeListPage.fillContactDetails();
 	}
 }
