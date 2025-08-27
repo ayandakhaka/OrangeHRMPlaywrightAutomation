@@ -104,9 +104,9 @@ public class PIMAddEmployeeTest extends BaseTest {
 		Assert.assertEquals(pimAddEmployeePage.getAddedEmployeeText(), actualResults);
 	}
 	
-	@AfterGroups(groups = "Add Employee Details")
-	public void AddEmployeeContactDetails() {
-		//employeeListPage.clickContactDetailsLinkText();
-		employeeListPage.fillContactDetails();
-	}
+//	@AfterGroups(groups = "Add Employee Details")
+//	public void AddEmployeeContactDetails() {
+//		//employeeListPage.clickContactDetailsLinkText();
+//		employeeListPage.fillContactDetails();
+//	}
 }
