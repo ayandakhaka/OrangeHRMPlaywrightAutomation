@@ -35,7 +35,7 @@ public class PIMAddEmployeeTest extends BaseTest {
 	public void setup() throws Exception {
 		
 		OrangeHRMDataStore.init();
-		launchPlaywrightBrowser(prop.getProperty("chrome_browser"), false);
+		launchPlaywrightBrowser(prop.getProperty("chrome_browser"), true);
 		launchApplication(prop.getProperty("orangehrm_url"));
 		// Wait until page is fully loaded
 		String username = OrangeHRMDataStore.getUsername();
